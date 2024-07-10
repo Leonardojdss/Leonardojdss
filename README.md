@@ -1,4 +1,4 @@
-Olá 👍
+Olá, sejá bem vindo!
 
 😎 SOBRE MIM
 
