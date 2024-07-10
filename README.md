@@ -8,4 +8,4 @@ Sou formado em engenharia Mecânica e estou estudando pós-graduação em Ciênc
 
 🛠 LINGUAGENS E FERRAMENTAS QUE TENHO CONHECIMENTO.
 
-Python, Linux, Github, VS Code, Pandas, Numpy, Scikit Learn, Tensor Flow, Jupyter, Plotly, LangChain, Microsoft Azure, MongoDB, Power BI, Sas Guide, Google Cloud Plataform GCP, SQL, Microsoft Integration Services etc.
+Python, Apache Spark, PySpark, Linux, Github, VS Code, Pandas, Numpy, Scikit Learn, Tensor Flow, Jupyter, Plotly, LangChain, Microsoft Azure, MongoDB, Power BI, Sas Guide, Google Cloud Plataform GCP, SQL, Microsoft Integration Services etc.
