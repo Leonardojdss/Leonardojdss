@@ -1,6 +1,6 @@
 Olá, sejá bem vindo!
 
-Sou formado em engenharia Mecânica e estou estudando pós-graduação em Ciência de Dados & Analytics da Escola Politécnica da USP.
+Sou Arquiteto de desenvolvedor de soluções de inteligência artificial, sou formado em engenharia Mecânica e estou estudando pós-graduação em Ciência de Dados & Analytics da Escola Politécnica da USP.
 
 🛠 LINGUAGENS E FERRAMENTAS QUE TENHO CONHECIMENTO.
 
