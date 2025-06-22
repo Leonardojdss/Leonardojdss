@@ -1,9 +1,12 @@
 Olá, sejá bem vindo!
 
-Sou Arquiteto e desenvolvedor de soluções de inteligência artificial, sou formado em engenharia Mecânica e estou estudando pós-graduação em Ciência de Dados & Analytics da Escola Politécnica da USP.
+Tenho experiência no desenvolvimento, arquitetura e pesquisa de soluções em Inteligência Artificial em IA Generativa, agentes de IA CrewAI, LangGraph e LangChain, servidores MCP, visão computacional, NLP (Processamento de Linguagem Natural), modelos preditivos de Machine Learning e engenharia de prompts. Nos últimos meses trabalhei construindo APIs, automações com IA generativa, construindo fluxos de agentes, chats com capacidades de RAG, estive resolvendo dores com inteligência artificial generativa.
 
-🛠 LINGUAGENS E FERRAMENTAS QUE TENHO CONHECIMENTO.
+📌 Principais competências técnicas:
+ • Linguagens: Python, SQL, SAS
+ • Bibliotecas/Ferramentas: Docker, Postman, Kubernetes, máquinas virtuais, Git, Pandas, MLflow, NumPy, Scikit-learn, TensorFlow, Keras, PySpark, Streamlit, OpenAI, CrewAI, LangGraph, LangChain, MLflow
+ • Plataformas e serviços: Azure Devops, CI / CD, Databricks, Azure AI Services, Google Cloud, Power BI, PostgreSQL, Apache Spark, Microsoft Integration Services, SAS Guide, MCP Server, AKS, Azure functions, Blob storage, S3, AWS Lambda, GitHub, Docker
 
-Python, LangChain, CrewAI, Apache Spark, PySpark, Linux, Github, VS Code, Pandas, Numpy, Scikit Learn, Tensor Flow, Jupyter, Plotly, Matplotlib, LangChain, Microsoft Azure, MongoDB, Power BI, SaS Guide, Google Cloud Plataform GCP, SQL, Microsoft Integration Services etc.
-
-Acesse meus projetos nos repositórios.
+🎓 Formação Acadêmica:
+ • Pós-graduando em Ciência de Dados & Analytics – Escola Politécnica da USP
+ • Engenheiro Mecânico
