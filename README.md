@@ -1,6 +1,6 @@
 Olá, sejá bem vindo!
 
-Tenho experiência no desenvolvimento, arquitetura e pesquisa de soluções em Inteligência Artificial em IA Generativa, agentes de IA CrewAI, LangGraph e LangChain, servidores MCP, visão computacional, NLP (Processamento de Linguagem Natural), modelos preditivos de Machine Learning e engenharia de prompts. Nos últimos meses trabalhei construindo APIs, automações com IA generativa, construindo fluxos de agentes, chats com capacidades de RAG, estive resolvendo dores com inteligência artificial generativa.
+Experiente no desenvolvimento, arquitetura e pesquisa de soluções em Inteligência Artificial em IA Generativa, agentes de IA CrewAI, LangGraph e LangChain, servidores MCP, visão computacional, NLP (Processamento de Linguagem Natural), modelos preditivos de Machine Learning e engenharia de prompts. Nos últimos meses trabalhei construindo APIs, automações com IA generativa, construindo fluxos de agentes, chats com capacidades de RAG, estive resolvendo dores com inteligência artificial generativa.
 
 📌 Principais competências técnicas:
  • Linguagens: Python, SQL, SAS
